@@ -12,6 +12,7 @@
 	<artifactId>axe-catalog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Axeguitars</name>
+	<packaging>war</packaging>
 	<description>Guitars</description>
 
 	<properties>
